@@ -6,7 +6,7 @@ authors = ["Mikhail Panin <mokybrow@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.13"
+python = "^3.11"
 numpy = "^2.2.5"
 scipy = "^1.15.2"
 matplotlib = "^3.10.1"
